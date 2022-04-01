@@ -1,0 +1,11 @@
+@import '_variables.scss';
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+@import "_webspecific.scss";
+
+button.nav-link.active{
+  color: red !important;
+}
+
+
+
+
